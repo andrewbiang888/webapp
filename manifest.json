@@ -1,0 +1,30 @@
+{
+  "short_name": "Andrew's App",
+  "name": "Andrew's Mobile Web App",
+  "description": "Demo app to practice my chops",
+  "icons": [
+    {
+      "src": "img/linkedinlogo.png",
+      "sizes": "48x48",
+      "type": "image/webp"
+    },
+    {
+      "src": "img/linkedinlogo.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/linkedinlogo.png",
+      "sizes": "72x72 96x96 128x128 256x256"
+    },
+    {
+      "src": "img/linkedinlogo.png",
+      "sizes": "72x72"
+    }
+  ]
+,
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/myapp/",
+  "theme_color": "aliceblue"
+}
