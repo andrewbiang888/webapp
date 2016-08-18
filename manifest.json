@@ -21,6 +21,14 @@
       "sizes": "72x72"
     }
   ]
+
+  "startup-image": [
+    {
+      "src": "img/appstartimg.png",
+      "sizes": "320x460",
+      "type" : "imgage"
+    }
+  ]
 ,
   "start_url": "/index.html",
   "display": "standalone",
