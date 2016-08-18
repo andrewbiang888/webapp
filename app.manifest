@@ -49,7 +49,8 @@ img/linkedinlogo.png
 ,
   "start_url": "/index.html",
   "display": "standalone",
-  "orientation": "any",
+  "background_color": "#FAFAFA",
   "scope": "/myapp/",
-  "theme_color": "aliceblue"
+  "theme_color": "aliceblue",
+  "orientation": "portrait"
 }
